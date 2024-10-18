@@ -1,0 +1,1 @@
+If a user switches to dark mode on a website, i want the preference to be remembered even after the page is refreshed. Typically, this is done by saving the user's preference (dark or light mode) in either localStorage or cookies so that the setting persists across page loads.
