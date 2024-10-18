@@ -1,0 +1,11 @@
+/* Light Mode Styles */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Dark Mode Styles (can be in dark-mode.css or added dynamically) */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
